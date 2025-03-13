@@ -1,5 +1,5 @@
 @tag
-Feature: Checkimng FB Loginpage
+Feature: Checkimng Loginpage
   I want to use this template for my feature file
 
   @tag1
